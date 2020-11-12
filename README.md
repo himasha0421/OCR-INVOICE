@@ -37,7 +37,7 @@ Extracted Test Results
 
 ![](images/r_2.png)
 
-* I have added ![ocr results](invoice_data.csv) file have a check on my implementation .
+* I have added [ocr results](invoice_data.csv) file have a check on my implementation .
 
 
 ## Contributing
